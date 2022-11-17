@@ -1,2 +1,2 @@
-# Sistema de Login com Python e SQL
-Sistema de Login com Python e SQL
+# Projeto Django Gerenciamento Tempo Real
+Projeto Django Gerenciamento Tempo Real

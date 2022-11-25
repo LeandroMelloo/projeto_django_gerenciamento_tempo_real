@@ -9,4 +9,4 @@ class Artigo(models.Model):
     reporter = models.ForeignKey(Reporter)
 
     def __str__(self):
-        return self.headline
+        return self.titulo
